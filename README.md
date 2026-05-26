@@ -61,6 +61,14 @@ changelog:
  
  -saving everyting accordingly
 
+ 2026/05/26
+ - Recieved and noted feedback from lecturer and will be correcting HTML structure accordingly: 
+ -Edited Html home page adding all needed divs, structure changes, and broken links + missing css link
+ -Edited Html volunteer page adding all needed divs, structure changes, and broken links + missing css link
+ -Edited Html services page adding all needed divs, structure changes, and broken links + missing css link
+ -Edited Html aboutus page adding all needed divs, structure changes, and broken links + missing css link
+ -Edited Html contact page adding all needed divs, structure changes, and broken links + missing css link
+
  References:
 
  Google (2026) Web hosting services. Available at: 
