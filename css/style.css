@@ -41,6 +41,27 @@ img {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
+/* Logo Container */
+
+.logo-container {
+    margin-bottom: 1rem;
+}
+
+/* Logo */
+
+.logo {
+    width: 260px;
+    max-width: 90%;
+    height: auto;
+
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.03);
+
+}
+
 /* LAYOUT CONTAINER */
 
 .container {
