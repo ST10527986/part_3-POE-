@@ -111,3 +111,20 @@ section:hover {
     border-left: 6px solid var(--primary-color);
 }
 
+/* SERVICES PAGE */
+
+.service {
+    background-color: green;
+    color:rgb(194, 184, 184) ;
+    padding: 20px;
+    margin-top: 15px;
+    border-left: 5px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    transition: transform var(--transition-speed);
+}
+
+.service:hover {
+    transform: scale(1.02);
+}
+
+
