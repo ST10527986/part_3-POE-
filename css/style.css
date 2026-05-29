@@ -189,7 +189,7 @@ input[type="radio"] {
     margin-right: 5px;
 }
 
-/*LINKS */
+/*LINK UNDERLINING */
 
 a {
     color: var(--primary-color);
@@ -199,4 +199,24 @@ a:hover {
     text-decoration: underline;
 }
 
+/*  ABOUT PAGE*/
+
+body p {
+    letter-spacing: 0.3px;
+}
+
+
+/*   FOOTER */
+
+footer {
+    background-color: var(--dark-color);
+    color: var(--white-color);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    margin-bottom: 0;
+}
 
