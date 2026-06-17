@@ -70,7 +70,29 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         }
     });
-    
+     // -------------------------------
+    // 4. IMAGE LIGHTBOX
+    // -------------------------------
+
+    const images = document.querySelectorAll("img");
+
+    images.forEach(function (image) {
+        image.addEventListener("click", function () {
+            const lightbox = document.createElement("div");
+            lightbox.classList.add("lightbox");
+
+            const largeImage = document.createElement("img");
+            largeImage.src = image.src;
+            largeImage.alt = image.alt;
+
+            lightbox.appendChild(largeImage);
+            document.body.appendChild(lightbox);
+
+            lightbox.addEventListener("click", function () {
+                lightbox.remove();
+            });
+        });
+    });
 
 
 
