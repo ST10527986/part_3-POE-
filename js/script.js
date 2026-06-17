@@ -3,7 +3,8 @@
 // ===============================
 
 document.addEventListener("DOMContentLoaded", function () {
-     // -------------------------------
+
+    // -------------------------------
     // 1. NAVIGATION ACTIVE LINK
     // -------------------------------
 
@@ -16,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
+});
     // -------------------------------
     // 2. SERVICE SEARCH FILTER
     // -------------------------------
