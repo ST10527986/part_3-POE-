@@ -477,4 +477,47 @@ form,
     transform: scale(1.03);
 }
 
+.lightbox {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0,0,0,0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 3000;
+}
 
+.lightbox img {
+    max-width: 85%;
+    max-height: 85%;
+    border-radius: 12px;
+}
+
+.close-lightbox,
+.prev-lightbox,
+.next-lightbox {
+    position: absolute;
+    color: white;
+    font-size: 3rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.close-lightbox {
+    top: 20px;
+    right: 35px;
+}
+
+.prev-lightbox {
+    left: 30px;
+}
+
+.next-lightbox {
+    right: 30px;
+}
+
+.close-lightbox:hover,
+.prev-lightbox:hover,
+.next-lightbox:hover {
+    color: #66bb6a;
+}
