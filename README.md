@@ -90,7 +90,7 @@ Part 1 of the project required the creation of two business proposals. After eva
 
 # Sitemap
 
-> Insert sitemap image here.
+> ![Safe Haven sitemap](Images/Site%20map.png)
 
 **Figure 1:** Website Sitemap  
 *Source: OpenAI (2026)*
@@ -183,6 +183,17 @@ Added the following sections to the business proposal:
 - Visual Studio Code
 - GitHub
 
+## 2026-06-17
+
+#### Added Content and research into proposal
+- Existing content info
+- social media info
+- Public and domain
+- original content
+
+#### README CHANGES
+- added improved site map
+- Improved formatting
 # References
 
 Google (2026) *Web hosting services*. Available at: <https://www.google.com/search?q=web+hosting+services> (Accessed: 15 April 2026).
