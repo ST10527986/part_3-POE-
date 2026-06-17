@@ -521,3 +521,20 @@ form,
 .next-lightbox:hover {
     color: #66bb6a;
 }
+
+.search-container {
+    margin: 20px 0;
+}
+
+#serviceSearch {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+}
+
+#serviceSearch:focus {
+    outline: none;
+    box-shadow: 0 0 6px rgba(46, 125, 50, 0.5);
+}
