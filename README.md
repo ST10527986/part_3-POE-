@@ -72,6 +72,11 @@ changelog:
  Added the following info in the business proposal as feedback from my respective lecturer,"Design and user experience: Create a colour palette that shows all the colours used and show an example of the (typography) fonts used as well as the font sizes.
 Technical Requirements: provide clear explanations on the following topics - Infrastructure & Hosting, Performance & Accessibility, Security & Compliance, Functional Integrations, and Ongoing Maintenance."
 
+5/29/2026
+completed all styling and structuring of the newly implemented CSS stylesheet while altering older html code to fit more precisely with the newer css code.
+
+gained newer images for the contact banner, and about us image.
+
  References:
 
  Google (2026) Web hosting services. Available at: 
