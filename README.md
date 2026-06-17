@@ -1,103 +1,201 @@
-Project/POE Safe Haven ZA
 
-Sufyaan Abrahams (ST10527986)
+# Safe Haven ZA Website Project (POE)
 
-The Safe Haven ZA project involves the development of a website regarding the NGO animal shelter that safe haven ZA is in order to raise animal welfare awareness and to care for the pets of South africa. This website is targeted to people with a care and interest to animals aswell as those looking to adopt a fur baby of their choosing. The website will offer all their is to get to know about safe haven ZA, including all the necessary contact details.
+## Student Information
 
-The goal for this website is to 1 build trust between us and our target audience, for them to see that we are a well 
-established NGO that uses safe practices to rescue and care for our animals to the point they would A like to 
-adopt from our organization and use our services or B get involved with the course and volunteer at Pet Haven 
-Za.             
-2 to provide all the help and information they need to contact us so we can be mobile friendly and 
-accessible to all.
+**Name:** Sufyaan Abrahams  
+**Student Number:** ST10527986
 
-The outline of the essentials of this website contains a main home page that will present you the basics of what 
-Pet haven ZA is and the purpose of it, from there it will have 4-5 main links up top that will guide you to your 
-specific desire that you're looking for whether it be our services, how to contact us, more about us or all of our 
-available services . This website will encompass all that Pet Haven           
-ZA stands for and will satisfy whatever 
-digital need our customer will need.
 
-Timeline and milestones : 
-1. Completion of planning including necessary research in what it takes to make a website, what it means to 
-create a functional and aesthetically pleasing website which still meets the requirements necessary for 
-the modern organization to meet customer engagement needs. (WEEK 1) 
+# Project Overview
 
-2. Proposal approval, after completing the proposal with sufficient research and effort to submit it for 
-appraisal in hopes that it meets whatever criteria is needed for a passing grade. (WEEK 2) 
+Safe Haven ZA is a non-profit animal welfare organization dedicated to rescuing, caring for, and rehoming animals across South Africa. This project involves the design and development of a website that promotes animal welfare awareness while providing a platform for potential adopters, volunteers, and supporters to engage with the organization.
 
-3. Development completion which involves using tools such as visual studio to code the website on 
-additional tools like html, CSS to design and make a functional website (WEEK 2-3)
+The website is targeted toward individuals who care about animal welfare, those looking to adopt a pet, and community members interested in volunteering or supporting the organization's mission.
 
-5. Testing/ Submitting final folder containing all the tools used to create this formative part 1 which includes 
-the images, graphs and files that have been used.
+The website provides visitors with information about:
 
-Part 1s details entails creating 2 business proposals and from there choosing the most optimal proposal and create the basic structured website that follows the same research done in the proposal.
+- Safe Haven ZA's mission and values
+- Available services
+- Pet adoption opportunities
+- Volunteer opportunities
+- Contact information
+- Ways to support the organization
 
-Sitemap:
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/8a8e4b74-d14e-494f-ab8f-38185b6ddd81" />
 
-(openAi.2026)
+# Project Goals
 
-changelog:
+The primary goals of the website are:
 
-2026/04/15
+## 1. Build Trust and Credibility
 
- -Created main web page linking into 3 others being contact, service and about
- 
- -Started filling in basic research done from proposal
- 
- 2026/04/20
- 
- -realised i need another page so adding in the page "volunteer"
- 
- -creating forms of contact in the volunteer page aswell as the contact page
- 
- -struggling to push on github
- 
- -relinked the documents and github now working
- 
- -adding brand logo image into each page
- 
- -saving everyting accordingly
+Create a professional online presence that demonstrates Safe Haven ZA's commitment to ethical animal rescue and welfare practices. The website should encourage users to:
 
- 2026/05/26
- - Recieved and noted feedback from lecturer and will be correcting HTML structure accordingly: 
- -Edited Html home page adding all needed divs, structure changes, and broken links + missing css link
- -Edited Html volunteer page adding all needed divs, structure changes, and broken links + missing css link
- -Edited Html services page adding all needed divs, structure changes, and broken links + missing css link
- -Edited Html aboutus page adding all needed divs, structure changes, and broken links + missing css link
- -Edited Html contact page adding all needed divs, structure changes, and broken links + missing css link
+- Adopt animals through the organization
+- Utilize available services
+- Support the organization's mission
+- Volunteer their time and skills
 
- Added the following info in the business proposal as feedback from my respective lecturer,"Design and user experience: Create a colour palette that shows all the colours used and show an example of the (typography) fonts used as well as the font sizes.
-Technical Requirements: provide clear explanations on the following topics - Infrastructure & Hosting, Performance & Accessibility, Security & Compliance, Functional Integrations, and Ongoing Maintenance."
+## 2. Improve Accessibility and Communication
 
-5/29/2026
-completed all styling and structuring of the newly implemented CSS stylesheet while altering older html code to fit more precisely with the newer css code.
+Provide clear and accessible contact information, ensuring visitors can easily reach the organization regardless of the device they are using.
 
-gained newer images for the contact banner, and about us image.
 
- References:
+# Website Structure
 
- Google (2026) Web hosting services. Available at: 
-https://www.google.com/search?q=web+hosting+services (Accessed: 15 April 2026).
+The website consists of the following pages:
 
-KEIM (n.d.) Colour psychology. Available at: https://www.keim.com/colour-psychology/ (Accessed: 15 April 
-2026). 
+ Home - Introduction to Safe Haven ZA and its mission 
+ About Us - Information about the organization and its values 
+ Services - Details about services offered 
+ Volunteer - Volunteer opportunities and application information 
+ Contact - Contact details and enquiry forms 
 
-New Perspective Studio (n.d.) What is the cost of creating a website in South Africa? Available at: 
-https://www.newperspectivestudio.co.za/wp/what-is-the-cost-of-creating-a-website-in-south-africa/ 
-(Accessed: 15 April 2026).
+The navigation menu allows users to quickly access all major sections of the website.
 
-OpenAI (2026) ChatGPT. Available at: https://chatgpt.com/ (Accessed: 15 April 2026).
 
-Orbit Media Studios (n.d.) Website design requirements. Available at: 
-https://www.orbitmedia.com/blog/website-design-requirements/ (Accessed: 17 April 2026).
+# Timeline and Milestones
 
-Pumpkin Web Design (n.d.) The importance of layout in web design. Available at: 
-https://www.pumpkinwebdesign.com/web-design-manchester/the-importance-of-layout-in-web-design/ 
-(Accessed: 17 April 2026). 
+## Week 1 - Planning and Research
 
-Wikipedia (n.d.) Typography. Available at: https://en.wikipedia.org/wiki/Typography (Accessed: 17 April 
-2026).
- 
+- Conduct research on website development principles.
+- Investigate best practices for user engagement.
+- Research modern website design and accessibility requirements.
+- Gather information required for the business proposal.
+
+## Week 2 - Proposal Approval
+
+- Complete and submit the business proposal.
+- Obtain lecturer feedback and approval.
+
+## Week 2–3 - Initial Development
+
+- Begin website development using:
+  - HTML5
+  - CSS3
+  - Visual Studio Code
+- Create the website structure.
+- Develop navigation between pages.
+
+## Final Stage - Testing and Submission
+
+- Test website functionality.
+- Verify links and navigation.
+- Organize project files.
+- Submit final project folder and supporting documents.
+
+# Part 1 Overview
+
+Part 1 of the project required the creation of two business proposals. After evaluating both proposals, the most suitable option was selected and developed into a basic website structure based on the research and planning conducted during the proposal phase.
+
+# Sitemap
+
+> Insert sitemap image here.
+
+**Figure 1:** Website Sitemap  
+*Source: OpenAI (2026)*
+
+# Changelog
+
+## 2026-04-15
+
+### Added
+
+- Created the main homepage.
+- Created and linked the Contact page.
+- Created and linked the Services page.
+- Created and linked the About Us page.
+- Began populating pages with information gathered during proposal research.
+
+## 2026-04-20
+
+### Added
+
+- Added a new Volunteer page.
+- Added contact forms to both the Volunteer and Contact pages.
+- Added the Safe Haven ZA logo to all website pages.
+
+### Fixed
+
+- Resolved GitHub repository linking issues.
+- Corrected document linking issues.
+
+### Maintenance
+
+- Organized and saved project files appropriately.
+
+
+## 2026-05-26
+
+### Feedback Review
+
+Received lecturer feedback and implemented required corrections.
+
+### HTML Improvements
+
+- Updated Home page structure.
+- Updated About Us page structure.
+- Updated Services page structure.
+- Updated Volunteer page structure.
+- Updated Contact page structure.
+- Added missing CSS links.
+- Corrected broken page links.
+- Improved semantic HTML structure.
+- Added missing container and layout elements.
+
+### Proposal Improvements
+
+Added the following sections to the business proposal:
+
+#### Design and User Experience
+
+- Colour palette documentation.
+- Typography examples.
+- Font size specifications.
+
+#### Technical Requirements
+
+- Infrastructure and Hosting.
+- Performance and Accessibility.
+- Security and Compliance.
+- Functional Integrations.
+- Ongoing Maintenance.
+
+
+## 2026-05-29
+
+### Styling and Design
+
+- Completed CSS stylesheet implementation.
+- Refactored existing HTML to improve compatibility with the new stylesheet.
+- Improved overall website layout and visual consistency.
+
+### Content Updates
+
+- Added a new Contact page banner image.
+- Added a new About Us page image.
+
+# Technologies Used
+
+- HTML5
+- CSS
+- Javascript
+- Visual Studio Code
+- GitHub
+
+# References
+
+Google (2026) *Web hosting services*. Available at: <https://www.google.com/search?q=web+hosting+services> (Accessed: 15 April 2026).
+
+KEIM (n.d.) *Colour psychology*. Available at: <https://www.keim.com/colour-psychology/> (Accessed: 15 April 2026).
+
+New Perspective Studio (n.d.) *What is the cost of creating a website in South Africa?* Available at: <https://www.newperspectivestudio.co.za/wp/what-is-the-cost-of-creating-a-website-in-south-africa/> (Accessed: 15 April 2026).
+
+OpenAI (2026) *ChatGPT*. Available at: <https://chatgpt.com/> (Accessed: 15 April 2026).
+
+Orbit Media Studios (n.d.) *Website design requirements*. Available at: <https://www.orbitmedia.com/blog/website-design-requirements/> (Accessed: 17 April 2026).
+
+Pumpkin Web Design (n.d.) *The importance of layout in web design*. Available at: <https://www.pumpkinwebdesign.com/web-design-manchester/the-importance-of-layout-in-web-design/> (Accessed: 17 April 2026).
+
+Wikipedia (n.d.) *Typography*. Available at: <https://en.wikipedia.org/wiki/Typography> (Accessed: 17 April 2026).
+```
