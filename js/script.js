@@ -94,5 +94,53 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
+     // -------------------------------
+    // 5. CONTACT FORM VALIDATION
+    // -------------------------------
+
+    const contactForm = document.querySelector("form");
+
+    if (contactForm) {
+        contactForm.addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const requiredInputs = contactForm.querySelectorAll("input[required], textarea[required], select[required]");
+            let valid = true;
+
+            requiredInputs.forEach(function (input) {
+                if (input.value.trim() === "") {
+                    valid = false;
+                    input.classList.add("error");
+                } else {
+                    input.classList.remove("error");
+                }
+            });
+
+            const emailInput = contactForm.querySelector("input[type='email']");
+
+            if (emailInput) {
+                const emailPattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+
+                if (!emailInput.value.match(emailPattern)) {
+                    valid = false;
+                    emailInput.classList.add("error");
+                }
+            }
+
+            if (valid) {
+                alert("Thank you. Your form has been submitted successfully.");
+
+                // Opens email app for contact-style submission
+                const emailBody = encodeURIComponent("A user has submitted a form on Safe Haven ZA.");
+                window.location.href = "mailto:contact@safehavenza.org?subject=Safe Haven ZA Website Form&body=" + emailBody;
+
+                contactForm.reset();
+            } else {
+                alert("Please complete all required fields correctly.");
+            }
+        });
+    }
+
+
 
 
