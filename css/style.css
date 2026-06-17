@@ -401,4 +401,50 @@ footer p {
     }
 }
 
+.active-link {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.search-box {
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    border: 2px solid var(--primary-color);
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.lightbox {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0,0,0,0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 12px;
+}
+
+section,
+form,
+.about-content {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: 0.6s ease;
+}
+
+.show-section {
+    opacity: 1;
+    transform: translateY(0);
+}
 
