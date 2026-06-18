@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>index1.html</loc>
+</url>
+
+<url>
+<loc>aboutus.html</loc>
+</url>
+
+<url>
+<loc>services.html</loc>
+</url>
+
+<url>
+<loc>gallery.html</loc>
+</url>
+
+<url>
+<loc>contact.html</loc>
+</url>
+
+<url>
+<loc>volunteer.html</loc>
+</url>
+
+</urlset>
