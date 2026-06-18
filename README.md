@@ -45,11 +45,12 @@ Provide clear and accessible contact information, ensuring visitors can easily r
 
 The website consists of the following pages:
 
- Home - Introduction to Safe Haven ZA and its mission 
- About Us - Information about the organization and its values 
- Services - Details about services offered 
- Volunteer - Volunteer opportunities and application information 
- Contact - Contact details and enquiry forms 
+- Home - Introduction to Safe Haven ZA and its mission
+- About Us - Information about the organization and its values
+- Services - Details about services offered
+- Gallery - Images showcasing rescued animals, volunteers and shelter activities
+- Volunteer - Volunteer opportunities and application information
+- Contact - Contact details and enquiry forms
 
 The navigation menu allows users to quickly access all major sections of the website.
 
@@ -89,7 +90,7 @@ The navigation menu allows users to quickly access all major sections of the web
 Part 1 of the project required the creation of two business proposals. After evaluating both proposals, the most suitable option was selected and developed into a basic website structure based on the research and planning conducted during the proposal phase.
 
 # Sitemap
-
+The sitemap below illustrates the structure of the Safe Haven ZA website and the navigation flow between pages.
 > ![Safe Haven sitemap](Images/Site%20map.png)
 
 **Figure 1:** Website Sitemap  
@@ -123,6 +124,19 @@ Part 1 of the project required the creation of two business proposals. After eva
 ### Maintenance
 
 - Organized and saved project files appropriately.
+
+# Part 2 Overview
+
+Part 2 of the project focused on transforming the initial website structure developed in Part 1 into a fully styled and functional website. During this phase, emphasis was placed on user interface design, visual consistency, responsive layouts, and overall user experience.
+
+An external CSS stylesheet was developed and applied across all website pages to ensure a consistent appearance and maintainable code structure. Typography, colour schemes, spacing, navigation, forms, and page layouts were refined to create a professional and user-friendly experience.
+
+Responsive design principles were implemented through the use of flexible layouts, responsive containers, media queries, and responsive images to ensure compatibility across desktop, tablet, and mobile devices.
+
+Additional content was researched and integrated into the website, including organisation information, service descriptions, volunteer opportunities, contact information, and supporting imagery. Website navigation was improved to allow users to move easily between pages and access key information efficiently.
+
+Part 2 established the visual and structural foundation of the Safe Haven ZA website and prepared the project for the advanced functionality and optimisation features implemented in Part 3.
+
 
 
 ## 2026-05-26
@@ -178,10 +192,11 @@ Added the following sections to the business proposal:
 # Technologies Used
 
 - HTML5
-- CSS
-- Javascript
+- CSS3
+- JavaScript
 - Visual Studio Code
 - GitHub
+- Git Version Control
 
 ## 2026-06-17
 
@@ -194,6 +209,142 @@ Added the following sections to the business proposal:
 #### README CHANGES
 - added improved site map
 - Improved formatting
+
+## 2026-06-18
+
+### Added
+
+- Created Gallery page.
+- Added interactive image gallery.
+- Implemented lightbox image viewer.
+- Added gallery image navigation controls.
+- Added responsive hamburger navigation menu.
+- Added service search functionality.
+- Added hero section with call-to-action buttons.
+- Added responsive header background image.
+- Created robots.txt file.
+- Created sitemap.xml file.
+
+### Improved
+
+- Improved responsive design across multiple screen sizes.
+- Enhanced website accessibility.
+- Improved visual design and user experience.
+- Optimised page loading performance.
+- Improved form validation and user feedback.
+
+### Feedback Corrections
+
+- Updated website layout based on Part 2 feedback.
+- Improved page structure and content organisation.
+- Refined navigation and linking between pages.
+- Enhanced styling consistency across all pages.
+- Updated README documentation to include Part 3 functionality.
+
+
+# Part 3 Overview
+
+Part 3 of the project focused on improving the website's visual design, responsiveness, functionality, and search engine optimisation. Additional JavaScript functionality was implemented to enhance user interaction, while responsive design techniques were applied to ensure compatibility across desktop, tablet, and mobile devices.
+
+Several SEO improvements were also implemented, including a sitemap, robots file, image optimisation, and structured navigation. These additions provide a more professional user experience and improve the overall quality of the website.
+
+# Responsive Design
+
+The Safe Haven ZA website was designed using responsive web design principles to ensure accessibility across a range of devices and screen sizes.
+
+Responsive features implemented include:
+
+- CSS Flexbox layouts.
+- Responsive containers using percentage widths and max-width values.
+- Responsive images using max-width: 100% and height: auto.
+- Mobile-friendly navigation.
+- Hamburger menu for smaller screens.
+- Media queries for tablet and mobile devices.
+- Responsive forms and interactive elements.
+
+Testing was conducted using browser developer tools to verify compatibility on desktop, tablet, and mobile screen sizes.
+
+# JavaScript Functionality
+
+JavaScript was implemented to improve user interaction and create a more dynamic website experience.
+
+Implemented functionality includes:
+
+- Active navigation highlighting.
+- Service search functionality.
+- Contact form validation.
+- Volunteer form validation.
+- Interactive image gallery.
+- Lightbox image viewer.
+- Gallery image navigation controls.
+- Mobile hamburger menu.
+- Hero call-to-action buttons.
+- Scroll-based animations.
+
+# Search Engine Optimisation (SEO)
+
+Basic SEO practices were implemented throughout the website.
+
+SEO improvements include:
+
+- Descriptive page titles.
+- Structured heading hierarchy.
+- Internal linking between pages.
+- Image alternative text.
+- Mobile-friendly design.
+- Sitemap.xml implementation.
+- Robots.txt implementation.
+- Optimised image sizing for faster page loading.
+
+# Page Speed Optimisation
+
+Several techniques were used to improve website performance:
+
+- Images were resized and optimised for web use.
+- External CSS and JavaScript files were utilised.
+- Reusable CSS classes reduced duplicate code.
+- Responsive images improve loading efficiency.
+- Website assets were organised into structured folders.
+
+# Security Measures
+
+Basic client-side security measures were implemented throughout the website.
+
+These include:
+
+- HTML5 form validation.
+- Required form fields.
+- Email input validation.
+- Age restrictions on volunteer applications.
+- JavaScript form validation.
+- User input verification before form submission.
+
+These measures improve data quality and help prevent invalid submissions.
+
+# Robots.txt
+
+A robots.txt file was created to guide search engine crawlers and indicate which pages may be indexed.
+
+# Sitemap.xml
+
+A sitemap.xml file was created to help search engines understand the website structure and improve discoverability.
+
+# Responsive Design Testing
+
+## Desktop View
+
+![Desktop Screenshot](images/desktop.png)
+
+
+## Tablet View
+
+![Tablet Screenshot](images/tablet.png)
+
+
+## Mobile View
+
+![Mobile Screenshot](images/smartphone.png)
+
 # References
 
 Google (2026) *Web hosting services*. Available at: <https://www.google.com/search?q=web+hosting+services> (Accessed: 15 April 2026).
@@ -209,4 +360,14 @@ Orbit Media Studios (n.d.) *Website design requirements*. Available at: <https:/
 Pumpkin Web Design (n.d.) *The importance of layout in web design*. Available at: <https://www.pumpkinwebdesign.com/web-design-manchester/the-importance-of-layout-in-web-design/> (Accessed: 17 April 2026).
 
 Wikipedia (n.d.) *Typography*. Available at: <https://en.wikipedia.org/wiki/Typography> (Accessed: 17 April 2026).
+
+MDN Web Docs (n.d.) Responsive web design. Available at: https://developer.mozilla.org/ (Accessed: 18 June 2026).
+
+MDN Web Docs (n.d.) JavaScript Form Validation. Available at: https://developer.mozilla.org/ (Accessed: 18 June 2026).
+
+Google Search Central (n.d.) Robots.txt specifications. Available at: https://developers.google.com/search/docs (Accessed: 18 June 2026).
+
+Google Search Central (n.d.) Build and submit a sitemap. Available at: https://developers.google.com/search/docs (Accessed: 18 June 2026).
+
+W3Schools (n.d.) JavaScript Tutorial. Available at: https://www.w3schools.com/js/ (Accessed: 18 June 2026).
 ```
