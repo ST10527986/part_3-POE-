@@ -265,18 +265,7 @@ if (serviceSearch) {
         });
     });
 }
-// -------------------------------
-// HAMBURGER MENU
-// -------------------------------
 
-const menuToggle = document.querySelector("#menuToggle");
-const mainNav = document.querySelector("#mainNav");
-
-if (menuToggle && mainNav) {
-    menuToggle.addEventListener("click", function () {
-        mainNav.classList.toggle("active");
-    });
-}
 
 
 

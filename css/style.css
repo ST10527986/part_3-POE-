@@ -603,7 +603,7 @@ header img {
     margin: 0 auto;
 }
 .menu-toggle {
-    display: none;
+    display: block;
     font-size: 2rem;
     background-color: var(--primary-color);
     color: white;
@@ -614,30 +614,52 @@ header img {
     margin: 15px auto;
 }
 
+.menu-toggle {
+    display: none;
+}
+
 @media (max-width: 768px) {
 
+    /* Show hamburger button */
     .menu-toggle {
         display: block;
+        font-size: 2rem;
+        background-color: #2e7d32;
+        color: white;
+        border: none;
+        padding: 10px 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        margin: 15px auto;
     }
 
-    nav {
+    /* Hide menu by default */
+    #mainNav {
         display: none;
         width: 100%;
     }
 
-    nav.active {
+    /* Show menu when JS adds class="active" */
+    #mainNav.active {
         display: block;
     }
 
-    nav ul {
+    /* Stack links vertically */
+    #mainNav ul {
+        display: flex;
         flex-direction: column;
         align-items: center;
-        gap: 12px;
+        gap: 10px;
+        padding: 15px 0;
     }
 
-    nav ul li a {
-        display: block;
+    #mainNav ul li {
         width: 100%;
         text-align: center;
+    }
+
+    #mainNav ul li a {
+        display: block;
+        padding: 12px;
     }
 }
