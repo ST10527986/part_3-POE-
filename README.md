@@ -218,7 +218,6 @@ Added the following sections to the business proposal:
 - Added interactive image gallery.
 - Implemented lightbox image viewer.
 - Added gallery image navigation controls.
-- Added responsive hamburger navigation menu.
 - Added service search functionality.
 - Added hero section with call-to-action buttons.
 - Added responsive header background image.
