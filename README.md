@@ -241,6 +241,22 @@ Added the following sections to the business proposal:
 - Enhanced styling consistency across all pages.
 - Updated README documentation to include Part 3 functionality.
 
+## 2026-06-19
+
+### Added
+
+- Added an interactive embedded Google Map to the Contact page.
+- Implemented location-based functionality to improve user accessibility.
+- Enhanced contact information with a live map display.
+- Added responsive map styling for desktop, tablet, and mobile devices.
+
+### Improved
+
+- Improved user navigation by providing visual location guidance.
+- Enhanced overall user experience through interactive map integration.
+- Improved website functionality by incorporating external Google Maps services.
+- Grammer on website
+
 
 # Part 3 Overview
 
